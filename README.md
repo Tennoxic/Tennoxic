@@ -1,3 +1,4 @@
 ### Hello, i am Tennoxic.
-I am 17 years old and 12th grade Informatics student.<br>
-Programming languages ı know and use : C#,JS,Python,Java.
+Hello, my name is Ibrahim Efe.<br>
+I am a 17-year-old 12th-grade computer science student and improving myself in the field of software development. <br>
+I am familiar with programming languages such as C#, Java, JavaScript, and Python.
